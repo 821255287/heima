@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话:159865742</view><view>联系地址:广东省深圳市龙岗区坂田街道</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" scale="{{scale}}"></map></view>
